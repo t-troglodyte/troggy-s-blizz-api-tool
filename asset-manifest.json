@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/troggy-s-blizz-api-tool/static/css/main.073c9b0a.css",
+    "main.js": "/troggy-s-blizz-api-tool/static/js/main.098876b4.js",
+    "static/js/787.0ae3da9a.chunk.js": "/troggy-s-blizz-api-tool/static/js/787.0ae3da9a.chunk.js",
+    "static/media/logo.svg": "/troggy-s-blizz-api-tool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/troggy-s-blizz-api-tool/index.html",
+    "main.073c9b0a.css.map": "/troggy-s-blizz-api-tool/static/css/main.073c9b0a.css.map",
+    "main.098876b4.js.map": "/troggy-s-blizz-api-tool/static/js/main.098876b4.js.map",
+    "787.0ae3da9a.chunk.js.map": "/troggy-s-blizz-api-tool/static/js/787.0ae3da9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.098876b4.js"
+  ]
+}
